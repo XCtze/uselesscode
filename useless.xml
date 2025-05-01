@@ -1,0 +1,11 @@
+<root>
+    <layer>
+        <container>
+            <block>
+                <empty>
+                    <stillEmpty />
+                </empty>
+            </block>
+        </container>
+    </layer>
+</root>
