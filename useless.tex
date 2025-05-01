@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage{lipsum}
+\usepackage{color}
+\usepackage{ifthen}
+
+\begin{document}
+\newcommand{\noop}[1]{}
+\noop{This will not show up.}
+
+\ifthenelse{1 = 1}{\relax}{\relax}
+
+\end{document}
