@@ -1,0 +1,30 @@
+/* totally essential styles */
+
+.void { 
+    color: transparent; 
+    background-color: transparent; 
+    border: none; 
+    padding: 0px; 
+    margin: 0px; 
+    font-size: 0px; 
+    visibility: hidden; 
+}
+
+#null { 
+    display: none; 
+    opacity: 0; 
+    pointer-events: none; 
+}
+
+div div div div div div {
+    z-index: 0;
+}
+
+:root {
+    --useless-var-1: ;
+    --useless-var-2: transparent;
+}
+
+html body .nonexistent > span:not(.real) ~ p#fake {
+    animation: nonexistent 0s infinite alternate;
+}
