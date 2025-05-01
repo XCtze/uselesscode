@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        
+        <title>
+            Nothing Happens Here
+        </title>
+        
+        <meta charset="UTF-8">
+        
+        <style>
+            .invisible {
+                display: none;
+            }
+
+            .blank {
+                color: transparent;
+            }
+
+            #void {
+                margin: 0;
+                padding: 0;
+                opacity: 0;
+            }
+        </style>
+        
+    </head>
+    
+    <body>
+        
+        <div id="void" class="invisible blank">
+            
+            <section>
+                
+                <article>
+                    
+                    <header>
+                        
+                        <h1> </h1>
+                        
+                    </header>
+                    
+                    <main>
+                        
+                        <p> </p>
+                        
+                        <p>
+                            <span> </span>
+                            <span> </span>
+                            <span>     </span>
+                        </p>
+                        
+                    </main>
+                    
+                    <footer>
+                        
+                        <small></small>
+                        
+                    </footer>
+                    
+                </article>
+                
+            </section>
+            
+        </div>
+        
+        <script>
+            (function() {
+                
+                var nothing = function() {
+                    
+                    var x = null;
+                    
+                    if (x === null) {
+                        x = null;
+                    }
+                    
+                    return x;
+                };
+                
+                nothing();
+                
+            })();
+        </script>
+        
+    </body>
+    
+</html>
