@@ -1,0 +1,79 @@
+{
+  "alpha": {
+    "beta": {
+      "gamma": [
+        {
+          "delta": {
+            "epsilon": null,
+            "zeta": [],
+            "eta": {
+              "theta": {},
+              "iota": " "
+            }
+          }
+        },
+        {
+          "delta": {
+            "epsilon": null,
+            "zeta": [],
+            "eta": {
+              "theta": {},
+              "iota": " "
+            }
+          }
+        }
+      ],
+      "kappa": [
+        [],
+        [],
+        []
+      ]
+    },
+    "lambda": {
+      "mu": {
+        "nu": {
+          "xi": {
+            "omicron": {
+              "pi": "     ",
+              "rho": {
+                "sigma": {
+                  "tau": {
+                    "upsilon": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "unused": {
+    "empty1": "",
+    "empty2": "",
+    "empty3": "",
+    "void": {
+      "blackhole": {},
+      "dust": {
+        "speck": {
+          "subspeck": {
+            "nonsense": []
+          }
+        }
+      }
+    }
+  },
+  "arrayOfNothings": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "confusing": {
+    "true": false,
+    "false": true,
+    "maybe": "perhaps",
+    "why": "¯\\_(ツ)_/¯"
+  }
+}
